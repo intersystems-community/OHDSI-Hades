@@ -58,6 +58,7 @@ downloadJdbcDrivers('redshift');
 downloadJdbcDrivers('sql server');
 downloadJdbcDrivers('oracle');
 downloadJdbcDrivers('spark');
+downloadJdbcDrivers('iris');
 EOF
 
 # Install Rserve server and client
